@@ -12,8 +12,8 @@ $(document).ready(function () {
         });
     });
 
-    $(".recetas").dblclick(function () {
-        $(".procedimiento").toggle();
+    $(".titulo").dblclick(function () {
+        $(".fotos").toggle();
     });
 
 });
