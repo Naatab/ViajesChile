@@ -1,0 +1,7 @@
+.body{
+    font-family: "raleway", "open sans";
+}
+
+.quienes, .destacados, .contacto{
+    background-color: rgb(2, 2, 2);
+}
