@@ -9,3 +9,7 @@
 .tarjetas {
     background-color: rgb(2, 2, 2);
 }
+
+html{
+    scroll-behavior: smooth;
+}
